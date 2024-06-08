@@ -12,7 +12,7 @@ This web application allows users to anonymously bookmark their favorite website
 
 ## How to Use
 
-1. Visit the live site [here](https://yourusername.github.io/anonymous-bookmark-app).
+1. Visit the live site [here](https://quicksilver-lab.github.io/BookMark/)).
 2. Enter the URL of the website you want to bookmark.
 3. Click the "Bookmark" button.
 4. Your bookmark will be added anonymously to the list of bookmarks.
