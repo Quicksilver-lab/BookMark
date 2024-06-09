@@ -18,10 +18,10 @@ This web application allows users to anonymously bookmark their favorite website
 <p align="center">
 <img src="/assets/line.gif">             
 </p>
-1. Visit the live site [here] (https://quicksilver-lab.github.io/BookMark/).
-2. Enter the URL of the website you want to bookmark.
-3. Click the "Bookmark" button.
-4. Your bookmark will be added anonymously to the list of bookmarks.
+1. Visit the live site https://quicksilver-lab.github.io/BookMark. <br>
+2. Enter the URL of the website you want to bookmark.<br>
+3. Click the "Bookmark" button.<br>
+4. Your bookmark will be added anonymously to the list of bookmarks.<br>
 5. Explore bookmarks added by others!
 
 ## Technologies Used
@@ -29,7 +29,6 @@ This web application allows users to anonymously bookmark their favorite website
 <img src="/assets/line.gif">             
 </p>
 - HTML/CSS/JavaScript
-- [Insert any libraries/frameworks you used, e.g., Bootstrap, jQuery, etc.]
 
 ## Contributing
 <p align="center">
